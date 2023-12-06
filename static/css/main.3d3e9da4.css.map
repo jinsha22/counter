@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3d3e9da4.css","mappings":"AAAA,MAEE,wBAAoC,CACpC,qBAAwB,CAExB,gBAAiB,CADjB,YAAa,CAHb,iBAKF","sources":["App.css"],"sourcesContent":["#abcd{\n  text-align: center;\n  background-color: rgb(116, 158, 172);\n  border: 2px black solid ;\n  padding: 15px;\n  margin-top: 100px;\n}\n"],"names":[],"sourceRoot":""}
